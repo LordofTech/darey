@@ -12,8 +12,8 @@ This project demonstrates how to implement responsive ads using Prebid.js. It in
 
 ## Setup Instructions
 1. Clone the repository.
-2. Add the Prebid.js file to `/ads/prebid/`.
-3. Configure ad units in `/ads/main.js`.
+2. Add the Prebid.js file to `/src/prebid/`.
+3. Configure ad units in `/src/main.js`.
 4. Open `index.html` in your browser.
 
 ## Testing
