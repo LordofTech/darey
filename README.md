@@ -28,7 +28,7 @@ Setup Instructions
 
 Testing
 
-1. To verify customized configurations and test individual features, please run /tests/test.js`executing  in /header-bidding/Prebid.js` verifies that all settings are appropriate..
+1. To verify customized configurations and test individual features, please run /tests/test.js` or Prebid.js directly executing  in /header-bidding/Prebid.js` verifies that all settings are appropriate..
 
 Run gulp test in /header-bidding/Prebid.js to ensure that Prebid.js integrations and bid adapter functionality are valid.
 
