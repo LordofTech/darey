@@ -32,7 +32,7 @@ Features
 
 Testing
 
-Run the  script to validate configurations.
+Run the  script with prebid.js  or tests/test.js or any of the folders within tests subfolder to validate configurations.
 
 Deployment
 
